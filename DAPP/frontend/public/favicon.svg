@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#6855e8"/><stop offset="1" stop-color="#9b75f7"/></linearGradient></defs>
+  <rect width="48" height="48" rx="14" fill="url(#g)"/>
+  <text x="24" y="32" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="700" fill="#fff">共</text>
+</svg>
